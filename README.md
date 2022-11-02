@@ -6,8 +6,7 @@ School of Engineering and Applied Science
 This repository contains the solutions from all the programming assignements and quiz in this Coursera Course.
 
 <h1>About This Course</h1>
-How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of flight and the design of quadrotor flying robots and will be able to develop dynamic models, derive controllers, and synthesize planners for operating in three dimensional environments.  You will be exposed to the challenges of using noisy sensors for localization and maneuvering in complex, three-dimensional environments.  Finally, you will gain insights through seeing real world examples of the possible applications and challenges for the rapidly-growing drone industry.
-Aerial Robotics concerns developping a 3d PD controller and a trajectory generator for a quadcopter.
+How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots to incorporate uncertainty into estimating and learning from a dynamic and changing world. Specific topics that will be covered include probabilistic generative models, Bayesian filtering for localization and mapping.
 
 <h1>Mathematical Prerequisites</h1>
 Mathematical prerequisites: Students taking this course are expected to have some familiarity with linear algebra, single variable calculus, and differential equations.
