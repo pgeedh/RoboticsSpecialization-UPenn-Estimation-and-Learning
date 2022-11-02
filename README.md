@@ -1,6 +1,6 @@
 <h1>Coursera Robotics Specialization- Aerial Robotics</h1>
 <h4>Instructor</h4> 
-<h5>Prof. Vijay Kumar</h5>Nemirovsky Family Dean of Penn Engineering and Professor of Mechanical Engineering and Applied Mechanics
+<h5>Prof. Daniel Lee</h5>Nemirovsky Family Dean of Penn Engineering and Professor of Mechanical Engineering and Applied Mechanics
 School of Engineering and Applied Science
 
 This repository contains the solutions from all the programming assignements and quiz in this Coursera Course.
@@ -15,16 +15,6 @@ Mathematical prerequisites: Students taking this course are expected to have som
 <h1>Programming Prerequisite</h1>
 Some experience programming with MATLAB or Octave is recommended (we will use MATLAB in this course.) MATLAB will require the use of a 64-bit computer.
 You need to have Matlab installed if you want to run the programs on your machine with the appropriate libraries installed. The data used specifically for this course are not included but any similar data should work fine.
-
-<h1>Authors</h1>
-<h4>Pruthvi Omkar Geedh</h4>
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
-
-
-This repository contains my solution code to the assignments and capstone project of all the modules to complete the Robotics Specialization by University of Pennsylvania.
-PS: These codes are for my future reference, and it is advised to take heed on the Coursera Honor Code.
 
 Modules are divided into:
 
@@ -44,3 +34,6 @@ Modules are divided into:
 <p align="center">
   <img width="400" height="300" src="https://raw.githubusercontent.com/smit585/Upenn-Robotics/master/Robotics%20and%20Estimation/Week%204/DemoImages/Final%20Image.png">
 
+<h1>Authors</h1>
+<h4>Pruthvi Omkar Geedh</h4>
+This project is licensed under the MIT License - see the LICENSE.md file for details
